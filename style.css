@@ -80,7 +80,7 @@
 }
 
 .background {
-  background-image: url('/images/backgraound_flowers.png');
+  background-image: url('/images/background_flowers.png');
   background-size: 790px 697px;
   background-position: 85px 0px;
   background-repeat: no-repeat;
@@ -88,7 +88,7 @@
   height: 697px;
 }
 
-.Product-wrapper {
+.product-wrapper {
   position: relative;
   width: 1110px;
   height: 1191px;
