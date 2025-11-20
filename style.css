@@ -101,3 +101,8 @@
   gap: 45px;
   list-style-type: none;
 }
+
+.change-color-button {
+  background-color: #05f219;
+  color: #f70202;
+}
